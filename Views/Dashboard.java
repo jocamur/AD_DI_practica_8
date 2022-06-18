@@ -27,7 +27,7 @@ public class Dashboard extends javax.swing.JFrame {
         Principal p1 = new Principal();
         p1.setSize(750, 430);
         p1.setLocation(0,0);
-        
+                            // CONTENT ES EL JPANEL
         content.removeAll();
         content.add(p1, BorderLayout.CENTER);
         content.revalidate();

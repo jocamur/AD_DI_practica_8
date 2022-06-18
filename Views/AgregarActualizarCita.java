@@ -169,14 +169,6 @@ public class AgregarActualizarCita extends javax.swing.JPanel {
             JOptionPane.showMessageDialog(this, "¡Error al registrar los cambios!", "Alerta", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_buttonAgregarMouseClicked
 
-    void setColor(JPanel panel) {
-        panel.setBackground(new Color(21, 101, 192));
-    }
-
-    void resetColor(JPanel panel) {
-        panel.setBackground(new Color(18, 90, 173));
-    }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel Text2;
     private javax.swing.JLabel Text3;

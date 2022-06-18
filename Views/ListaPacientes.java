@@ -207,13 +207,6 @@ public class ListaPacientes extends javax.swing.JPanel {
         JOptionPane.showMessageDialog(this, "¡Exportacion finalizada!", "Alerta", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_buttonExportarMouseClicked
 
-    void setColor(JPanel panel) {
-        panel.setBackground(new Color(21, 101, 192));
-    }
-
-    void resetColor(JPanel panel) {
-        panel.setBackground(new Color(18, 90, 173));
-    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel Title;
